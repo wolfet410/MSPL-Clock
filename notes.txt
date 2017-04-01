@@ -1,0 +1,8 @@
+3/31
+- ngbp installed in web directory
+- TODO: Remove karma and testing bullshit, not going to use it
+- TODO: Code Express and socket.io in server directory
+- Plan there, web directory contains the grunt build system of ngbp
+- server directory contains the node.js server, with express, and socket.io running
+- TODO: Send data between web and server on multiple web browsers, see if in sync
+ 
